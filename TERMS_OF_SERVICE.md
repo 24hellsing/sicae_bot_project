@@ -2,66 +2,78 @@
 
 **Last updated:** October 31, 2026
 
-These Terms of Service ("Terms") govern your use of Sicae (the "Service"), provided by Sicae ("we", "us", "our"). By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Service ("Terms") govern your use of the Sicae Discord bot (the "Bot") and its related support server (together, the "Service"), provided by Sicae ("we", "us", "our"). By adding the Bot to a server or using its commands, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 
-You must be at least 13 years old and able to form a binding contract to use the Service.
+You must be old enough to use Discord under Discord's Terms of Service (at least 13, or higher where your country requires). If you add the Bot to a server, you must have permission to manage that server and be able to form a binding agreement on its behalf.
 
-## 2. Your Account
+## 2. Discord's Terms Apply
 
-You are responsible for keeping your login credentials secure and for all activity under your account. Provide accurate information and notify us promptly of any unauthorized use.
+The Bot operates on Discord. You must follow [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) at all times while using the Service. We may restrict or remove access if your use breaks those rules.
 
-## 3. Acceptable Use
+## 3. Using the Bot
+
+- Server admins are responsible for how the Bot is configured and used in their server, including the permissions they give it and the channels it can access.
+- You are responsible for the content you submit through the Bot and for your own conduct.
+- We may change, add, or remove features at any time.
+
+## 4. Acceptable Use
 
 You agree not to:
 
-- Violate any law or the rights of others
-- Upload malicious code or attempt to disrupt or gain unauthorized access to the Service
-- Scrape, reverse engineer, or resell the Service without our written permission
-- Use the Service to harass, abuse, or harm others, or to post unlawful or infringing content
+- Use the Bot to harass, threaten, spam, or harm others, or to post unlawful, hateful, or infringing content
+- Attempt to exploit, overload, disrupt, or gain unauthorized access to the Bot, its hosting, or its data
+- Abuse commands to bypass rate limits, cooldowns, or restrictions
+- Use automation, self-bots, or scripts to interact with the Bot in ways it was not designed for
+- Copy, resell, reverse engineer, or host your own copy of the Bot without our written permission
+- Use the Service in violation of any law or Discord's rules
 
-## 4. Your Content
+## 5. Your Content
 
-You retain ownership of content you submit. You grant us a non-exclusive, worldwide, royalty-free license to host, store, and display that content solely to operate and improve the Service. You are responsible for ensuring you have the rights to submit it.
+You keep ownership of the content you submit through the Bot. You give us a non-exclusive, worldwide, royalty-free license to store, process, and display that content only as needed to operate the Service. You are responsible for making sure you have the right to submit it.
 
-## 5. Our Intellectual Property
+## 6. Our Intellectual Property
 
-The Service, including its software, design, and branding, is owned by us or our licensors and protected by intellectual property laws. These Terms do not grant you any rights to it except the limited right to use the Service as intended.
+The Bot, including its code, design, name, and branding, belongs to us or our licensors and is protected by intellectual property laws. These Terms give you only a limited right to use the Bot as intended.
 
-## 6. Privacy
+## 7. Privacy
 
 Your use of the Service is also governed by our [Privacy Policy](PRIVACY_POLICY.md).
 
-## 7. Fees
+## 8. Availability and Changes
 
-The Service is currently provided free of charge.
+The Bot is provided on a best-effort basis. It may go offline, lose data, have bugs, or be changed or shut down at any time, with or without notice. We do not promise any particular uptime.
 
-## 8. Termination
+## 9. Fees
 
-You may stop using the Service at any time. We may suspend or terminate your access if you violate these Terms or if needed to protect the Service or other users. Sections that by their nature should survive termination will survive.
+The Service is currently provided free of charge. If we introduce paid features, we will describe the price and terms before you are charged.
 
-## 9. Disclaimers
+## 10. Moderation, Suspension, and Termination
 
-The Service is provided "as is" and "as available" without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee the Service will be uninterrupted or error-free.
+We may block a user or server, or remove the Bot from a server, at any time and for any reason, including violating these Terms. You can stop using the Service at any time by removing the Bot from your server. Sections that by their nature should survive termination will continue to apply.
 
-## 10. Limitation of Liability
+## 11. Disclaimers
 
-To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data. Our total liability for any claim will not exceed the amount you paid us in the 12 months before the claim.
+The Service is provided "as is" and "as available" without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee the Bot will be uninterrupted, accurate, or error-free, and we are not responsible for how server members use the Bot.
 
-## 11. Indemnification
+## 12. Limitation of Liability
 
-You agree to indemnify and hold us harmless from claims arising from your use of the Service or violation of these Terms.
+To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, server content, members, or profits. Our total liability for any claim will not exceed the amount you paid us in the 12 months before the claim.
 
-## 12. Governing Law
+## 13. Indemnification
+
+You agree to indemnify and hold us harmless from claims arising from your use of the Service, your content, or your violation of these Terms.
+
+## 14. Governing Law
 
 These Terms are governed by the laws applicable to you and us, without regard to conflict-of-law rules.
 
-## 13. Changes to These Terms
+## 15. Changes to These Terms
 
-We may modify these Terms from time to time. We will post the updated version and revise the "Last updated" date. Continued use after changes means you accept them.
+We may update these Terms from time to time. We will post the new version in this repository and update the "Last updated" date, and announce material changes in our support server. Continued use of the Bot after changes means you accept them.
 
-## 14. Contact
+## 16. Contact
 
 Sicae
 Discord: https://discord.gg/sicae
