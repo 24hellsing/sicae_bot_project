@@ -64,4 +64,4 @@ We may modify these Terms from time to time. We will post the updated version an
 ## 14. Contact
 
 [COMPANY / YOUR NAME]
-[CONTACT EMAIL]
+Discord: https://discord.gg/sicae

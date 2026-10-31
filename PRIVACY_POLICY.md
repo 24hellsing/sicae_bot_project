@@ -38,7 +38,7 @@ We use reasonable technical and organizational measures to protect your informat
 
 ## 6. Your Rights
 
-Depending on where you live, you may have the right to access, correct, delete, or export your personal data, object to or restrict certain processing, and withdraw consent. To exercise these rights, contact us at [CONTACT EMAIL].
+Depending on where you live, you may have the right to access, correct, delete, or export your personal data, object to or restrict certain processing, and withdraw consent. To exercise these rights, contact us on Discord at https://discord.gg/sicae.
 
 ## 7. Children's Privacy
 
@@ -55,5 +55,5 @@ We may update this policy from time to time. We will post the new version here a
 ## 10. Contact Us
 
 [COMPANY / YOUR NAME]
-[CONTACT EMAIL]
+Discord: https://discord.gg/sicae
 [ADDRESS]
