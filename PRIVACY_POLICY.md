@@ -2,7 +2,7 @@
 
 **Last updated:** October 31, 2026
 
-This Privacy Policy explains how [COMPANY / YOUR NAME] ("we", "us", "our") collects, uses, and shares information when you use [APP / WEBSITE NAME] (the "Service").
+This Privacy Policy explains how Sicae ("we", "us", "our") collects, uses, and shares information when you use Sicae (the "Service").
 
 ## 1. Information We Collect
 
@@ -42,7 +42,7 @@ Depending on where you live, you may have the right to access, correct, delete, 
 
 ## 7. Children's Privacy
 
-The Service is not directed to children under [13 / 16]. We do not knowingly collect personal information from children. If you believe a child has provided us information, contact us and we will delete it.
+The Service is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us information, contact us and we will delete it.
 
 ## 8. International Transfers
 
@@ -54,6 +54,5 @@ We may update this policy from time to time. We will post the new version here a
 
 ## 10. Contact Us
 
-[COMPANY / YOUR NAME]
+Sicae
 Discord: https://discord.gg/sicae
-[ADDRESS]

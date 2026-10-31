@@ -2,11 +2,11 @@
 
 **Last updated:** October 31, 2026
 
-These Terms of Service ("Terms") govern your use of [APP / WEBSITE NAME] (the "Service"), provided by [COMPANY / YOUR NAME] ("we", "us", "our"). By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Service ("Terms") govern your use of Sicae (the "Service"), provided by Sicae ("we", "us", "our"). By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 
-You must be at least [13 / 16 / 18] years old and able to form a binding contract to use the Service.
+You must be at least 13 years old and able to form a binding contract to use the Service.
 
 ## 2. Your Account
 
@@ -35,7 +35,7 @@ Your use of the Service is also governed by our [Privacy Policy](PRIVACY_POLICY.
 
 ## 7. Fees
 
-[If applicable: describe pricing, billing, renewals, and refunds. Otherwise: "The Service is currently provided free of charge."]
+The Service is currently provided free of charge.
 
 ## 8. Termination
 
@@ -47,7 +47,7 @@ The Service is provided "as is" and "as available" without warranties of any kin
 
 ## 10. Limitation of Liability
 
-To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data. Our total liability for any claim will not exceed the greater of the amount you paid us in the 12 months before the claim or [AMOUNT].
+To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data. Our total liability for any claim will not exceed the amount you paid us in the 12 months before the claim.
 
 ## 11. Indemnification
 
@@ -55,7 +55,7 @@ You agree to indemnify and hold us harmless from claims arising from your use of
 
 ## 12. Governing Law
 
-These Terms are governed by the laws of [JURISDICTION], without regard to conflict-of-law rules. Disputes will be resolved in the courts of [JURISDICTION], unless otherwise required by law.
+These Terms are governed by the laws applicable to you and us, without regard to conflict-of-law rules.
 
 ## 13. Changes to These Terms
 
@@ -63,5 +63,5 @@ We may modify these Terms from time to time. We will post the updated version an
 
 ## 14. Contact
 
-[COMPANY / YOUR NAME]
+Sicae
 Discord: https://discord.gg/sicae
